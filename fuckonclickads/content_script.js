@@ -10,7 +10,6 @@ function isItScum(node) {
 
 function murderTheCunt(node) {
   node.innerHTML = null;
-    delete node;
 }
 function oohWhatsThis(event) {
   letsSeeHere(event.relatedNode);
